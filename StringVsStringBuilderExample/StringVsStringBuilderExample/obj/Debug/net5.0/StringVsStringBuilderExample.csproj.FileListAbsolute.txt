@@ -1,0 +1,16 @@
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.exe
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.deps.json
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.runtimeconfig.json
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.runtimeconfig.dev.json
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.dll
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\ref\StringVsStringBuilderExample.dll
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\bin\Debug\net5.0\StringVsStringBuilderExample.pdb
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.csproj.AssemblyReference.cache
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.AssemblyInfoInputs.cache
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.AssemblyInfo.cs
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.csproj.CoreCompileInputs.cache
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.dll
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\ref\StringVsStringBuilderExample.dll
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.pdb
+D:\Developer\Microservices Architecture\Tech Buddy\Digər\StringVsStringBuilderExample\StringVsStringBuilderExample\obj\Debug\net5.0\StringVsStringBuilderExample.genruntimeconfig.cache
